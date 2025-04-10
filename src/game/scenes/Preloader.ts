@@ -37,6 +37,44 @@ export class Preloader extends Scene {
 
         // ballon assets
         this.load.image("blueBallon", "blueBallon.png");
+        this.load.image("blueLightballon", "blueLightballon.png");
+        this.load.image("greenBallon", "greenBallon.png");
+        this.load.image("orangeLightBallon", "orangeLightBallon.png");
+        this.load.image("orangeWhiteBallon", "orangeWhiteBallon.png");
+        this.load.image("pinkBallon", "pinkBallon.png");
+        this.load.image("pinkHeartBallon", "pinkHeartBallon.png");
+        this.load.image("pinkWhiteBallon", "pinkWhiteBallon.png");
+        this.load.image("redBallon", "redBallon.png");
+        this.load.image("yellowBallon", "yellowBallon.png");
+
+        this.load.image('string', "string.png");
+        // Alphebet
+        this.load.image("a", "a.png");
+        this.load.image("b", "b.png");
+        this.load.image("c", "c.png");
+        this.load.image("d", "d.png");
+        this.load.image("e", "e.png");
+        this.load.image("f", "f.png");
+        this.load.image("g", "g.png");
+        this.load.image("h", "h.png");
+        this.load.image("i", "i.png");
+        this.load.image("j", "j.png");
+        this.load.image("k", "k.png");
+        this.load.image("l", "l.png");
+        this.load.image("m", "m.png");
+        this.load.image("n", "n.png");
+        this.load.image("o", "o.png");
+        this.load.image("p", "p.png");
+        this.load.image("q", "q.png");
+        this.load.image("r", "r.png");
+        this.load.image("s", "s.png");
+        this.load.image("t", "t.png");
+        this.load.image("u", "u.png");
+        this.load.image("v", "v.png");
+        this.load.image("w", "w.png");
+        this.load.image("x", "x.png");
+        this.load.image("y", "y.png");
+        this.load.image("z", "z.png");
 
         // animation
         this.load.spritesheet("press-pumb-handle", "pump-handle.png", {
